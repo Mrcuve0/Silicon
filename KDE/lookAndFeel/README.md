@@ -2,6 +2,8 @@
 
 ## A new modern, essential and timeless approach to your desktop.
 
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/Silicon_Logo.png)
+
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/PlasmaTheme.png)
