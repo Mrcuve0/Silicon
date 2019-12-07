@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=Preview
+Comment=A new modern, essential and timeless approach to your desktop.
 Name=Silicon
 X-KDE-PluginInfo-Author=Mrcuve0
 X-KDE-PluginInfo-Category=Plasma Look And Feel
@@ -10,3 +10,4 @@ X-KDE-PluginInfo-Name=Silicon
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://wallpaper.knsrc/api.kde-look.org/1341842,kns://colorschemes.knsrc/api.kde-look.org/1341833,kns://plasma-themes.knsrc/api.kde-look.org/1341847,kns://plasmoids.knsrc/api.kde-look.org/1199712,kns://plasmoids.knsrc/api.kde-look.org/998895,kns://plasmoids.knsrc/api.kde-look.org/998901
