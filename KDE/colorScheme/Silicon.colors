@@ -92,7 +92,7 @@ ForegroundPositive=83,83,83
 ForegroundVisited=70,135,214
 
 [General]
-ColorScheme=Arc Dark
+ColorScheme=Silicon
 Name=Silicon
 shadeSortColumn=true
 
