@@ -1,19 +1,17 @@
-# Silicon
+# **Silicon**
+
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/Silicon_Logo.png)
 
 <!-- TODO add description -->
 ## description description
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 
-<!-- TODO add HitCount -->
-[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Dark)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/Silicon.svg)](http://hits.dwyl.io/Mrcuve0/Silicon)
 
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/PlasmaTheme.png)
 
-<!-- TODO add screenshots -->
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/CleanDesktop.png)
-
-<!-- TODO add screenshots -->
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/KDE/screenshots/SystemMonitor0.5.2.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/Keepass.png)
 
 <!-- TODO fix link other screenshots -->
 **You can find other screenshots [here](https://www.pling.com/p//).**
