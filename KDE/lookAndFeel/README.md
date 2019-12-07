@@ -1,7 +1,6 @@
 # Silicon
 
-<!-- TODO: add description -->
-## description descriptio
+## A new modern, essential and timeless approach to your desktop.
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 
@@ -17,7 +16,7 @@
 
 Download the theme directly from the theme manager included in all the KDE-based distros:
 
-* Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
+* Open `System Settings` --> `Global Theme` --> `Get New Global Themes`
 
 #### **> CLI way**
 
@@ -32,7 +31,7 @@ kpackagetool5 -i Silicon-master.zip
 5. [Optional] SierraBreeze Window Decorations (instead of the Aurorae ones already provided): follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 
 ### **DEPENDENCIES**
-This Look-and-Feel theme will also install (as dependencies):
+This Global theme will also install (as dependencies):
 
 <!-- TODO fix product link -->
 * Color Scheme [Silicon](https://store.kde.org/p/)
@@ -80,4 +79,4 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark/master/QRCode.jpg)
 
 ### **LICENSE**
-This KDE look-and-feel theme is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Silicon/blob/master/KDE/lookAndFeel/LICENSE).
+This KDE Global theme is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Silicon/blob/master/KDE/lookAndFeel/LICENSE).

@@ -2,8 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/Silicon_Logo.png)
 
-<!-- TODO find description-->
-## Preview
+## A new modern, essential and timeless approach to your desktop.
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 
@@ -11,12 +10,10 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/Keepass.png)
 
-<!-- TODO other screenshots link-->
-**You can find other screenshots [here](https://www.pling.com/p//).**
+**You can find other screenshots [here](https://www.pling.com/p/1341833/).**
 
-<!-- TODO add link to product -->
 ### **INSTALLATION**
-The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p//) or directly from the theme manager included in all the KDE-based distros:
+The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1341833/) or directly from the theme manager included in all the KDE-based distros:
 
 * Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
 
