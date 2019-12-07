@@ -2,11 +2,9 @@
 
 ## A new modern, essential and timeless approach to your desktop.
 
-[![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-
-[![HitCount](http://hits.dwyl.io/Mrcuve0/Silicon.svg)](http://hits.dwyl.io/Mrcuve0/Silicon)
-
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/Silicon_Logo.png)
+
+[![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg) [![HitCount](http://hits.dwyl.io/Mrcuve0/Silicon.svg)](http://hits.dwyl.io/Mrcuve0/Silicon)
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/PlasmaTheme.png)
 
