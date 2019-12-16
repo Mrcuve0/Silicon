@@ -9,8 +9,8 @@
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/PlasmaTheme.png)
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/Keepass.png)
-<!-- TODO  Screeshots-->
-**You can find other screenshots [here](https://www.pling.com/p//).**
+
+**You can find other screenshots [here](https://www.pling.com/p/1341847/).**
 
 ### **INSTALLATION**
 #### **> Recommended way**

@@ -10,8 +10,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/Keepass.png)
 
-<!-- TODO fix link other screenshots -->
-**You can find other screenshots [here](https://www.pling.com/p//).**
+**You can find other screenshots [here](https://www.pling.com/p/1341849/).**
 
 ### **REPO ORGANIZATION**
 
@@ -37,8 +36,8 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 *As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
 <!-- TODO fix link FF theme -->
-### **FIREFOX THEME**
-* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon//)
+<!-- ### **FIREFOX THEME**
+* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon//) -->
 
 ### **DONATIONS**
 

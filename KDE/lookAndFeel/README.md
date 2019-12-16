@@ -10,8 +10,8 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Silicon/master/KDE/screenshots/Keepass.png)
 
-<!-- TODO fix link other screenshots -->
-**You can find other screenshots [here](https://www.pling.com/p//).**
+
+**You can find other screenshots [here](https://www.pling.com/p/1341849/).**
 
 ### **INSTALLATION**
 #### **> Recommended way**
@@ -22,8 +22,7 @@ Download the theme directly from the theme manager included in all the KDE-based
 
 #### **> CLI way**
 
-<!-- TODO fix product link -->
-1. Download the theme from the [OpenDesktop site](https://store.kde.org/p//)
+1. Download the theme from the [OpenDesktop site](https://store.kde.org/p/1341849/)
 2. Move into your Download folder and Install *Silicon* theme using (will also install dependencies)
 ```bash
 kpackagetool5 -i Silicon-master.zip
@@ -35,20 +34,17 @@ kpackagetool5 -i Silicon-master.zip
 ### **DEPENDENCIES**
 This Global theme will also install (as dependencies):
 
-<!-- TODO fix product link -->
-* Color Scheme [Silicon](https://store.kde.org/p/)
+* Color Scheme [Silicon](https://store.kde.org/p/1341833/)
 
-<!-- TODO fix wallpaper link -->
-* [Wallpapers](https://www.pling.com/c//)
+* [Wallpapers](https://www.pling.com/c/1344563/)
   
-<!-- TODO fix product link -->
-* [Plasma Theme](https://www.pling.com/p//)
+* [Plasma Theme](https://www.pling.com/p/1341847/)
 
 <!-- TODO fix product link -->
-* [Plasma Theme Opaque](https://www.pling.com/p//)
+<!-- * [Plasma Theme Opaque](https://www.pling.com/p//) -->
 
 <!-- TODO fix product link -->
-* [Aurorae Theme](https://www.pling.com/p//)
+<!-- * [Aurorae Theme](https://www.pling.com/p//) -->
 
 * Plasmoid [Application Title](https://store.kde.org/p/1199712)
 
